@@ -23,7 +23,7 @@
 - **2017–2019**: Senior DevOps Engineer at **Demand Sphere**, Lahore 🇵🇰  
    - Legacy migration to AWS EC2/S3  
    - Jenkins pipelines, SQS, CloudWatch monitoring  
-   - Performance tuning of Ruby on Rails apps  
+   - Performance tuning of Ruby on Rails and GoLang apps  
 - **2016–2017**: DevOps Engineer at **3s SimpleSoft Ltd**, Lahore 🇵🇰  
    - Docker-based microservices, TeamCity CI/CD  
    - Slack alerts, static code analysis  
