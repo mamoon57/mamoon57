@@ -1,10 +1,10 @@
 👋 Hi, I'm Mamoon Idrees
 
 🚀 Cloud & Data Engineer | DevOps | MLOps | Full Stack Developer (React, Java, GoLang, Ruby on Rails)
-📍 Canberra, Australia | 📧 mamoon.idrees@gmail.com
+📍 Canberra, Australia | 📧 mamoon.idrees5@gmail.com
 
-🔗 LinkedIn
- • 💻 GitHub
+[LinkedIn](https://linkedin.com/in/mamoon-idrees)
+[Github](https://github.com/mamoon57)
 
 💼 8+ years building scalable cloud-native, data-driven, and full-stack applications across AWS & Azure.
 I bridge the gap between DevOps, Data Engineering, and Software Development, delivering end-to-end solutions that are efficient, secure, and maintainable.
