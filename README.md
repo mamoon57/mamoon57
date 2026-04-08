@@ -1,73 +1,45 @@
-# Hi, I'm Mamoon 👋
+# Mamoon Idrees
 
-**Senior Platform Engineer | Backend & Cloud | LLM/RAG Systems**
+Platform engineer based in Canberra. I build backends, cloud infra, and lately LLM/agent systems that actually run in prod — not demos.
 
-I design and build scalable, reliable platforms — from API backends to cloud infrastructure and AI-powered systems.  
-Right now I'm focused on **Python/Java backends, Kubernetes, AWS/Azure, and LLM/RAG workloads**.
-
----
-
-## 🚀 What I Work On
-
-- **Backend Engineering** – REST APIs, microservices, async jobs, resilience, and performance-focused services.  
-- **Cloud & DevOps** – AWS/Azure, containers, Kubernetes, CI/CD, IaC, observability, and security.  
-- **LLM / RAG Platforms** – Architecting and integrating large language models into production systems.  
-- **Data & Storage** – PostgreSQL, Redis, Elasticsearch, caching, indexing, and query tuning.
+Currently at **Mondiaux**. Previously worked across AWS and Azure, Kubernetes, Terraform, and CI/CD pipelines.
 
 ---
 
-## 🛠️ Tech Stack
+## What I do
 
-**Languages**
-
-- Python, Java, Kotlin, Ruby
-
-**Backend / Frameworks**
-
-- FastAPI, Django, Spring Boot, Ruby on Rails
-
-**Cloud & Infrastructure**
-
-- AWS, Azure  
-- Docker, Kubernetes  
-- Terraform, Helm  
-- Nginx, API Gateways
-
-**DevOps & Platform**
-
-- CI/CD: GitHub Actions, Jenkins, ArgoCD  
-- Observability: Prometheus, Grafana, ELK stack  
-- Security: IAM, secrets management, DevSecOps practices
-
-**Data & Messaging**
-
-- PostgreSQL, MySQL, Redis  
-- Kafka / event-driven patterns  
-- Elasticsearch
+- **Platform & cloud** — Terraform, K8s, networking, security baselines, observability
+- **Backend** — Python/Java services, APIs, async jobs, Postgres/Redis
+- **AI platforms** — RAG, agents, evals, guardrails, cost/latency tradeoffs
 
 ---
 
-## 🔍 What I’m Interested In
+## Selected work
 
-- Building **LLM-enabled products** that are actually production-ready (latency, cost, guardrails).  
-- Designing **platforms** that make it easy for teams to ship quickly and safely.  
-- Working on **high-impact backend / platform roles** in product engineering teams.
-
-If your work touches **distributed systems, AI platforms, or high-scale backends**, I probably want to hear about it.
-
----
-
-## 📂 Selected Work
-
-> Placeholder – I’ll be adding more public projects and code samples here.
-
-- `coming-soon` – Public samples of backend, infra, and LLM/RAG experiments.
+| Project | What's in it |
+|---------|--------------|
+| [azure-platform](https://github.com/mamoon57/azure-platform) | Azure IaC by domain — App Service, APIM, SQL, security, CI/CD, monitoring |
+| [llm-agentic-ai](https://github.com/mamoon57/llm-agentic-ai) | Agent loops, tools, memory, RAG, evals — small Python examples |
+| [devops-aws-cicd-pipeline](https://github.com/mamoon57/devops-aws-cicd-pipeline) | GitHub Actions + Docker + Terraform on AWS |
+| [k8s-optimization-suite](https://github.com/mamoon57/k8s-optimization-suite) | HPA/KEDA, spot nodes, multi-region patterns, rightsizing notes |
+| [k8s-observability-stack](https://github.com/mamoon57/k8s-observability-stack) | Helm chart — Prometheus, Grafana, Alertmanager |
+| [kubernetes-labs](https://github.com/mamoon57/kubernetes-labs) | Pod/Deployment/ReplicaSet YAML labs with plain-English notes |
 
 ---
 
-## 🤝 Let’s Connect
+## Stack
 
-- **LinkedIn:** [linkedin.com/in/mamoon-idrees](https://www.linkedin.com/in/mamoon-idrees)  
-- **Email:** mamoon.idrees@gmail.com  
+**Languages:** Python, Java, Kotlin, Go, Ruby  
+**Backend:** FastAPI, Django, Spring Boot  
+**Cloud:** AWS, Azure · Terraform, Helm · Docker, Kubernetes  
+**Data:** PostgreSQL, Redis, Kafka, Elasticsearch  
+**Ops:** GitHub Actions, Jenkins, ArgoCD · Prometheus, Grafana
 
-If you think my background fits something you're building, feel free to reach out.
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/mamoon-idrees](https://www.linkedin.com/in/mamoon-idrees)
+- Email: mamoon.idrees5@gmail.com
+
+Open to platform, backend, and AI infrastructure roles — especially teams shipping real product at scale.
