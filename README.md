@@ -2,7 +2,7 @@
 
 Platform engineer based in Canberra. I build backends, cloud infra, and lately LLM/agent systems that actually run in prod — not demos.
 
-Currently at **Mondiaux**. Previously worked across AWS and Azure, Kubernetes, Terraform, and CI/CD pipelines.
+Worked across AWS and Azure, Kubernetes, Terraform, and CI/CD pipelines.
 
 ---
 
@@ -23,7 +23,7 @@ Currently at **Mondiaux**. Previously worked across AWS and Azure, Kubernetes, T
 | [devops-aws-cicd-pipeline](https://github.com/mamoon57/devops-aws-cicd-pipeline) | GitHub Actions + Docker + Terraform on AWS |
 | [k8s-optimization-suite](https://github.com/mamoon57/k8s-optimization-suite) | HPA/KEDA, spot nodes, multi-region patterns, rightsizing notes |
 | [k8s-observability-stack](https://github.com/mamoon57/k8s-observability-stack) | Helm chart — Prometheus, Grafana, Alertmanager |
-| [kubernetes-labs](https://github.com/mamoon57/kubernetes-labs) | Pod/Deployment/ReplicaSet YAML labs with plain-English notes |
+| [kubernetes-labs](https://github.com/mamoon57/kubernetes-labs) | Pod/Deployment/ReplicaSet YAML labs with notes |
 
 ---
 
