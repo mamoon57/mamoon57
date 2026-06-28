@@ -1,45 +1,16 @@
 # Mamoon Idrees
 
-Platform engineer based in Canberra. I build backends, cloud infra, and lately LLM/agent systems that actually run in prod — not demos.
+Platform engineer in Canberra. Day job is mostly backends and cloud — Terraform, Kubernetes, pipelines on AWS and Azure. Been doing more LLM/agent work lately (RAG, tool calling, evals).
 
-Worked across AWS and Azure, Kubernetes, Terraform, and CI/CD pipelines.
+**Repos**
 
----
+- [azure-platform](https://github.com/mamoon57/azure-platform) — Azure IaC, split by area so it's not one giant module
+- [llm-agentic-ai](https://github.com/mamoon57/llm-agentic-ai) — small Python examples for agent loops, memory, RAG
+- [devops-aws-cicd-pipeline](https://github.com/mamoon57/devops-aws-cicd-pipeline) — Flask + Terraform EC2 thing from a while back
+- [k8s-optimization-suite](https://github.com/mamoon57/k8s-optimization-suite) — HPA/KEDA, spot nodes, rightsizing notes
+- [k8s-observability-stack](https://github.com/mamoon57/k8s-observability-stack) — Helm chart, prom/grafana/alertmanager
+- [kubernetes-labs](https://github.com/mamoon57/kubernetes-labs) — YAML from CKA prep
 
-## What I do
+Python, Java, Go · FastAPI, Spring · Postgres, Redis, Kafka · GitHub Actions, ArgoCD, Prometheus/Grafana
 
-- **Platform & cloud** — Terraform, K8s, networking, security baselines, observability
-- **Backend** — Python/Java services, APIs, async jobs, Postgres/Redis
-- **AI platforms** — RAG, agents, evals, guardrails, cost/latency tradeoffs
-
----
-
-## Selected work
-
-| Project | What's in it |
-|---------|--------------|
-| [azure-platform](https://github.com/mamoon57/azure-platform) | Azure IaC by domain — App Service, APIM, SQL, security, CI/CD, monitoring |
-| [llm-agentic-ai](https://github.com/mamoon57/llm-agentic-ai) | Agent loops, tools, memory, RAG, evals — small Python examples |
-| [devops-aws-cicd-pipeline](https://github.com/mamoon57/devops-aws-cicd-pipeline) | GitHub Actions + Docker + Terraform on AWS |
-| [k8s-optimization-suite](https://github.com/mamoon57/k8s-optimization-suite) | HPA/KEDA, spot nodes, multi-region patterns, rightsizing notes |
-| [k8s-observability-stack](https://github.com/mamoon57/k8s-observability-stack) | Helm chart — Prometheus, Grafana, Alertmanager |
-| [kubernetes-labs](https://github.com/mamoon57/kubernetes-labs) | Pod/Deployment/ReplicaSet YAML labs with notes |
-
----
-
-## Stack
-
-**Languages:** Python, Java, Kotlin, Go, Ruby  
-**Backend:** FastAPI, Django, Spring Boot  
-**Cloud:** AWS, Azure · Terraform, Helm · Docker, Kubernetes  
-**Data:** PostgreSQL, Redis, Kafka, Elasticsearch  
-**Ops:** GitHub Actions, Jenkins, ArgoCD · Prometheus, Grafana
-
----
-
-## Contact
-
-- LinkedIn: [linkedin.com/in/mamoon-idrees](https://www.linkedin.com/in/mamoon-idrees)
-- Email: mamoon.idrees5@gmail.com
-
-Open to platform, backend, and AI infrastructure roles — especially teams shipping real product at scale.
+[LinkedIn](https://www.linkedin.com/in/mamoon-idrees) · mamoon.idrees5@gmail.com
