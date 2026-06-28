@@ -4,6 +4,7 @@ Platform engineer in Canberra. Day job is mostly backends and cloud — Terrafor
 
 **Repos**
 
+- [ai-devops-platform](https://github.com/mamoon57/ai-devops-platform) — side project: AI code review + CI/CD dashboard (FastAPI, React, Redis worker)
 - [azure-platform](https://github.com/mamoon57/azure-platform) — Azure IaC, split by area so it's not one giant module
 - [llm-agentic-ai](https://github.com/mamoon57/llm-agentic-ai) — small Python examples for agent loops, memory, RAG
 - [devops-aws-cicd-pipeline](https://github.com/mamoon57/devops-aws-cicd-pipeline) — Flask + Terraform EC2 thing from a while back
